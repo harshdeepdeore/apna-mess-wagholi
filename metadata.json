@@ -1,0 +1,7 @@
+{
+  "name": "Guru Mess & Catering",
+  "description": "Hyperlocal food subscription and event catering service.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
